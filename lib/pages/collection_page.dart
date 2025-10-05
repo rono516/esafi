@@ -227,9 +227,10 @@ class _CollectionPageState extends State<CollectionPage> {
                         onPressed: () {
                           // stkPushService.getStkPush();
                           try {
-                            http
-                                .get(Uri.parse(stkUrl))
-                                .then((value) => {registerRequest()});
+                            // http
+                            //     .get(Uri.parse(stkUrl))
+                            //     .then((value) => {registerRequest()});
+                            registerRequest();
                           } catch (error) {
                             print('Error: $error');
                           }
