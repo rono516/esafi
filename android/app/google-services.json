@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "582253827589",
+    "firebase_url": "https://esafi-b4575-default-rtdb.firebaseio.com",
+    "project_id": "esafi-b4575",
+    "storage_bucket": "esafi-b4575.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582253827589:android:28a2a674d240aded6dae6c",
+        "android_client_info": {
+          "package_name": "com.example.esafi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGGL8IBwX5STDoSwnENcQThgm841AVQ04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582253827589:android:fd72608ffb7dad2f6dae6c",
+        "android_client_info": {
+          "package_name": "com.example.wasteapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGGL8IBwX5STDoSwnENcQThgm841AVQ04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
